@@ -1,0 +1,7 @@
+N1=int(input("Digite um número:"))
+N2=int(input("Digite um número:"))
+N3=int(input("Digite um número:"))
+N4=int(input("Digite um número:"))
+N5=int(input("Digite um número:"))
+print("Soma=",N1+N2+N3+N4+N5)
+print("Média=",(N1+N2+N3+N4+N5)/5)
